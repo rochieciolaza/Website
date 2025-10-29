@@ -14,7 +14,7 @@ sections:
       consolidadas, transformamos ideas en soluciones tecnológicas reales,
       escalables y seguras.
     actions:
-      - label: Get started
+      - label: Conocenos
         altText: ''
         url: /
         showIcon: false
