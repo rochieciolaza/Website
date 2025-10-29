@@ -7,7 +7,7 @@ sections:
       text: 'Tecnologia con proposito, para tu negocio'
       color: text-dark
       type: TitleBlock
-    subtitle: Impulsamos tu negocio con soluciones tecnológicas
+    subtitle: Soluciones tecnológicas
     text: >
       En Wequark, combinamos diseño, desarrollo y estrategia para crear
       experiencias digitales de alto impacto. Desde startups hasta empresas
