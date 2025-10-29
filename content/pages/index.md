@@ -150,7 +150,9 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: >-
+        Soluciones tecnológicas diseñadas para potenciar tu marca y optimizar
+        tus procesos.
       color: text-primary
       styles:
         self:
