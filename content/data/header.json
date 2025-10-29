@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Servicios",
+            "label": "Quienes Somos",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
