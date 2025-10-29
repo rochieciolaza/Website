@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Impulsamos tu negocio con soluciones tecnológicas
     text: >
-      En **Wequark**, combinamos diseño, desarrollo y estrategia para crear
+      En Wequark, combinamos diseño, desarrollo y estrategia para crear
       experiencias digitales de alto impacto. Desde startups hasta empresas
       consolidadas, transformamos ideas en soluciones tecnológicas reales,
       escalables y seguras.
