@@ -23,7 +23,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Contanos tu situacion
         altText: ''
         url: /
         showIcon: true
