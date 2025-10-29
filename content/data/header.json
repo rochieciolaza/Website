@@ -43,7 +43,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Paginas Web",
+                    "label": "Pagina Web",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
