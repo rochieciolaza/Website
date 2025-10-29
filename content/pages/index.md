@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Impulsamos tu negocio con soluciones tecnológicas inteligentes
+      text: Impulsamos tu negocio con soluciones tecnológicas
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
