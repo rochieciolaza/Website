@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Tecnologia con proposito, para tu negociovos'
+      text: 'Tecnologia con proposito, para tu negocio'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
