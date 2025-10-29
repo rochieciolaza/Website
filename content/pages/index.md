@@ -38,7 +38,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Bienvenido
+      label: Bienvenido al futuro
       color: text-primary
       type: Badge
     elementId: ''
